@@ -21,7 +21,7 @@ Jinja2==2.10
 jsonschema==2.6.0
 jupyter==1.0.0
 jupyter-client==5.2.3
-jupyter-core==4.4.0
+jupyter-core==4.11.2
 kiwisolver==1.0.1
 MarkupSafe==1.0
 matplotlib==2.2.2
@@ -41,7 +41,7 @@ prometheus-client==0.3.1
 protobuf==3.6.1
 protobuf-to-dict==0.1.0
 ptyprocess==0.6.0
-Pygments==2.2.0
+Pygments==2.7.4
 pyparsing==2.2.0
 PySocks==1.6.8
 python-dateutil==2.7.3
